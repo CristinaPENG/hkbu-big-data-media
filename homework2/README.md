@@ -1,5 +1,5 @@
 # hkbu-big-data-media
-homework2
-I search 'dress' in www.Amazon.com
-and then get the item names and prices from the outcome page
-finally output as a csv file
+Homework2: 
+I search a key word 'dress' in www.Amazon.com
+and then get the [item names] and the [prices] from the outcome page,
+finally output them as a csv file.
